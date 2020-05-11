@@ -1,0 +1,1 @@
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/ci/android/1.0.1_DAILY_TEST_linux-ubuntu-6.2.0_64Bit.tar.gz
